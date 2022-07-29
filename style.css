@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.hogwarts {
+  margin-left: 8%;
+  margin-top: 18px;
+  padding-top: 20px;
+}
+@font-face {
+	font-family: harryp;
+	src: url("HARRYP__.TTF");
+}
+
+ 
